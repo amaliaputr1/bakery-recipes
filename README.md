@@ -23,7 +23,7 @@ Responsive UI: TailwindCSS dengan bakery‑themed color palette
 Pastikan sudah install git
 
 Kloningkan Repo ke C:\xampp\htdocs
-git clone https://github.com/ekarezkystos/recipe-baking.git cd C:\xampp\htdocs\bakery-recipes>
+git clone https://github.com/amaliaputr1/baking-recipe cd C:\xampp\htdocs\bakery-recipes>
 
 Setup
 
